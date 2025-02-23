@@ -21,7 +21,8 @@ DragonWars is a turn-based aerial combat miniatures game, inspired by convention
     <img src="/images/dragon-wars-standard_risers.png" width="300" />
   - **Telescoping Risers** – Modular pieces that stack, can rotate in discrete increments, and can telescope in increments up to a height of 7
 
-    <img src="/images/dragon-wars-telescoping_risers.png" width="400" />
+    <img src="/images/dragon-wars-telescoping_risers-1.png" width="400" />
+    <img src="/images/dragon-wars-telescoping_risers-2.jpg" width="900" />
   - **Sliding Poles** – A pole-based system for fastest height adjustment
     
     <img src="/images/dragon-wars-sliding_poles.jpg" width="900" />
@@ -32,10 +33,12 @@ DragonWars is a turn-based aerial combat miniatures game, inspired by convention
 - **Customizable 3D Terrain** A modular hex system supports custom 3D map layouts. Optional chipboard terrain pieces (via laser-cutting or similar approach) for maximum visual appeal.
 
     <img src="/images/dragon-wars-terrain.jpg" width="900" />
-- **Intuitive Action Plotting System** Easily plot 3 turns of movement and combat actions for 4 dragons.
+- **Intuitive Action Plotting System** Enables fast plotting of 3 turns of movement and combat actions for 4 dragons.
 
-    <img src="/images/dragon-wars-plotting.jpg" width="900" />    
-
+    <img src="/images/dragon-wars-plotting-1.jpg" width="900" />
+    <img src="/images/dragon-wars-plotting-2.jpg" width="900" />
+- **Simple Stats Tracking** Allows easy assessment of the state of the game.
+    <img src="/images/dragon-wars-stats-tracking.jpg" width="900" />
 ---
 
 ## How to Play

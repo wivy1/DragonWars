@@ -1,7 +1,7 @@
 # DragonWars
 <img src="/images/dragon-wars-title.jpg" width="896" height="211" />
-<img src="/images/dragon-wars-overview-1.jpg" width="896" height="675" />
-<img src="/images/dragon-wars-overview-2.jpg" width="896" height="675" />
+<img src="/images/dragon-wars-overview-1.jpg" width="896" />
+<img src="/images/dragon-wars-overview-2.jpg" width="896" />
 
 ## Description
 DragonWars is a turn-based aerial combat miniatures game, inspired by convention-style wargames. It emphasizes precise movement, quick play, and genuine vertical height. Players control a set of dragon units, each with its own movement and combat capabilities, in a race to capture a central objective or simply outmaneuver and outlast opposing dragons. 

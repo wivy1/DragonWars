@@ -35,7 +35,7 @@ DragonWars is a turn-based aerial combat miniatures game, inspired by convention
     <img src="/images/dragon-wars-terrain.jpg" width="900" />
 - **Intuitive Action Plotting System** Enables fast plotting of 3 turns of movement and combat actions for 4 dragons
 
-    <img src="/images/dragon-wars-plotting-1.png" width="900" />
+    <img src="/images/dragon-wars-plotting-1.jpg" width="900" />
     <img src="/images/dragon-wars-plotting-2.jpg" width="900" />
 - **Simple Stats Tracking** Allows easy assessment of the state of the game
     <img src="/images/dragon-wars-stats-tracking.jpg" width="900" />

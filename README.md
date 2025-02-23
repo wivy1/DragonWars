@@ -45,7 +45,7 @@ DragonWars is a turn-based aerial combat miniatures game, inspired by convention
    - **Deathmatch** – Eliminate all other players’ dragons.  
    - **Colors vs Chromatics** –  Eliminate all other team's dragons.  
 
-For full details, including diagrams, movement and combat resolutions, and advanced rules, consult the [DragonWars v0.9 Rules Guide]((/DragonWars_v0.9_Rules_Guide.pdf)).
+For full details, including diagrams, movement and combat resolutions, and advanced rules, consult the [DragonWars v0.9 Rules Guide](./DragonWars_v0.9_Rules_Guide.pdf).
 
 <img src="/images/dragon-wars-manual.jpg" width="900" />
 

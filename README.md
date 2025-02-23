@@ -1,4 +1,4 @@
-# DragonWars - The ultimate aerial combat miniatures game
+# DragonWars - The ultimate aerial combat miniatures game, 3D printable at home! 
 <img src="/images/dragon-wars-title.png" width="900" />
 <img src="/images/dragon-wars-overview-1.jpg" width="900" />
 <img src="/images/dragon-wars-overview-2.jpg" width="900" />
@@ -12,19 +12,24 @@ DragonWars is a turn-based aerial combat miniatures game, inspired by convention
 - **Fully 3D-printable** - everything is 3D-printable on a standard Ender-3 size FDM printer
 - **2-6 Players**
 - **4 Dragon Types:** Four distinct units (Wyrmling, Drake, Elder, Ancient) each with unique speed, size, and combat abilities.
+
     <img src="/images/dragon-wars-units.png" width="900"/>
 - **3 Vertical Height Systems:** 
   - **Basic Risers** – Modular pieces that stack
-        <img src="/images/dragon-wars-standard_risers.png" width="300" />
+
+    <img src="/images/dragon-wars-standard_risers.png" width="300" />
   - **Telescoping Risers** – Modular pieces that stack, can rotate in discrete increments, and can telescope in increments up to a height of 7
-        <img src="/images/dragon-wars-telescoping_risers.png" width="400" />
+
+    <img src="/images/dragon-wars-telescoping_risers.png" width="400" />
   - **Sliding Poles** – A pole-based system for fastest height adjustment
-        <img src="/images/dragon-wars-sliding_poles.jpg" width="900" />
+    
+    <img src="/images/dragon-wars-sliding_poles.jpg" width="900" />
 - **3 Game Modes:** 
   - **Capture the Egg** – A race to retrieve the dragon egg from the summit of the mountain and return it to your lair.
   - **Deathmatch** – A fight to the death, destroy all enemies and be the last dragon standing. 
   - **Colors vs Chromatics** – A team-based deathmatch variant where colored dragons and metallic dragons face off.
 - **Customizable 3D Terrain** A modular hex system supports custom 3D map layouts. Optional chipboard terrain pieces (via laser-cutting or similar approach) for maximum visual appeal.
+
     <img src="/images/dragon-wars-terrain.jpg" width="900" />
 
 ---
@@ -41,6 +46,7 @@ DragonWars is a turn-based aerial combat miniatures game, inspired by convention
    - **Colors vs Chromatics** –  Eliminate all other team's dragons.  
 
 For full details, including diagrams, movement and combat resolutions, and advanced rules, consult the [DragonWars v0.9 Rules Guide]((./DragonWars_v0.9_Rules_Guide.pdf)).
+
 <img src="/images/dragon-wars-manual.jpg" width="900" />
 
 ---

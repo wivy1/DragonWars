@@ -116,7 +116,11 @@ For full details, including diagrams, movement and combat resolutions, and advan
 ## What to Laser Cut (Optional)
 If you do not have access to a laser cutter, 3D-printed terrain hexes alone will suffice for normal gameplay.
 
+<img src="/images/dragon-wars-printed-hex.jpg" width="900" />
+
 A total of 128 terrain hexes are needed: 1 Summit, 18 Mountain, 18 Forest, 62 Field, 12 Scorched, 18 Lair [3 of each player color, or can use Scorched]
+
+<img src="/images/dragon-wars-chipboard-hex.jpg" width="900" />
 
 Images are provided for printing on 4"x6" photo paper or 8.5"x11" photo paper at 300dpi. 
 
